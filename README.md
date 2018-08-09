@@ -10,7 +10,7 @@ npm + node. Detailed instructions can be found [here](https://zapier.com/develop
 *Install the cli and login*
 
 ```bash
-npm i -g npm install -g zapier-platform-cli
+npm i -g zapier-platform-cli
 zapier login
 ```
 
