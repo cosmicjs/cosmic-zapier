@@ -54,8 +54,8 @@ const App = {
 				key: 'apiKey',
 				type: 'string',
 				required: true,
-				label: 'Cosmic JS Api Key',
-				helpText: 'Your Comsic JS Secret Authentication Key (can be retrieved from https://cosmicjs.com/account/authentication)',
+				label: 'Comsic JS Secret Authentication Token',
+				helpText: 'Your Comsic JS Secret Authentication Token (can be retrieved from https://cosmicjs.com/account/authentication)',
 			},
 		],
 		test: (z) => {
